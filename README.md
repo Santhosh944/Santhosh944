@@ -2,13 +2,13 @@
 
 🚀 Aspiring Software Engineer | Web Developer | AI Enthusiast
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-🔭 Currently working on AI-Powered Customization Pods & Waste Segregation Assistant Chatbot
-🌱 Learning DSA, MongoDB, Quantum Computing
-💡 Exploring Blockchain-based Voting Systems & AI Applications
-📌 Looking for impactful Web Dev & AI projects to showcase on LinkedIn
-👯 Open to collaborations on AI/ML & Web Development
-🎯 Goal: Mastering DSA & Landing a great role in tech
-📫 How to reach me :
+-🔭 Currently working on AI-Powered Customization Pods & Waste Segregation Assistant Chatbot
+-🌱 Learning DSA, MongoDB, Quantum Computing
+-💡 Exploring Blockchain-based Voting Systems & AI Applications
+-📌 Looking for impactful Web Dev & AI projects to showcase on LinkedIn
+-👯 Open to collaborations on AI/ML & Web Development
+-🎯 Goal: Mastering DSA & Landing a great role in tech
+-📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/SanthoshSa66888) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/santhosh-vinayagam/)
 
 ### I code in
