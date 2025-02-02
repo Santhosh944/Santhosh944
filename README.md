@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Santhosh
 
 🚀 Aspiring Software Engineer | Web Developer | AI Enthusiast
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 🔭 Currently working on AI-Powered Customization Pods & Waste Segregation Assistant Chatbot
 🌱 Learning DSA, MongoDB, Quantum Computing
 💡 Exploring Blockchain-based Voting Systems & AI Applications
